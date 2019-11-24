@@ -8,6 +8,6 @@ entries:
     digest: 1d71d7e5f6ae31a6232180db7218aaba9c01da3f35484bf3990f33488ada3dff
     name: aspnetsample
     urls:
-    - aspnetsample-0.2.0.tgz
+    - https://jtarte.github.io/myhelmrepo/aspnetsample-0.2.0.tgz
     version: 0.2.0
 generated: 2019-11-24T12:24:50.900099+01:00
